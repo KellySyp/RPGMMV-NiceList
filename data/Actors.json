@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"People1","classId":2,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":20,"maxLevel":99,"name":"Charlie","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"People4","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"People4","traits":[],"initialLevel":20,"maxLevel":99,"name":"Sam","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"People4","classId":3,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"People4","traits":[],"initialLevel":20,"maxLevel":99,"name":"Dana","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"People1","classId":1,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aurora","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":5,"characterName":"People3","classId":4,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aster","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":5,"characterName":"Actor3","classId":5,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tinsel","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"People3","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Santa","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":5,"characterName":"People1","classId":4,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mom","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":6,"characterName":"reindeer","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Deer1","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":6,"characterName":"reindeer","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Deer2","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":6,"characterName":"reindeer","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Deer3","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dog","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Empty","nickname":"","note":"","profile":""}
+]
